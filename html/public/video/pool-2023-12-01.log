@@ -1,0 +1,98 @@
+2023-12-01 12:00:04 ##  INFO: 客户端登录uid b0748
+2023-12-01 12:00:09 ##  INFO: 客户端断开:
+2023-12-01 12:00:10 ##  INFO: Notify deviceConnections update FAILED.
+2023-12-01 12:00:10 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-01 12:02:25 ##  INFO: 客户端登录uid 45710
+2023-12-01 12:02:43 ##  INFO: 客户端断开:
+2023-12-01 12:02:43 ##  INFO: 客户端断开:
+2023-12-01 12:02:44 ##  INFO: Notify deviceConnections update FAILED.
+2023-12-01 12:02:44 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-01 12:03:03 ##  INFO: 客户端登录uid c73ea
+2023-12-01 12:03:04 ##  INFO: 客户端登录uid 4fbd6
+2023-12-01 12:03:26 ##  INFO: 客户端登录uid 8cf5e
+2023-12-01 12:03:26 ##  INFO: {"uuid":"ed214","action":"disconnect"}
+2023-12-01 12:03:26 ##  INFO: 发送到用户to "ed214", msgType=disconnect
+2023-12-01 12:03:26 ##  INFO: {"uuid":"","action":"tellDevListUpdate"}
+2023-12-01 12:03:26 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-12-01 12:03:28 ##  INFO: {"uuid":"b0748","action":"disconnect"}
+2023-12-01 12:03:28 ##  INFO: 发送到用户to "b0748", msgType=disconnect
+2023-12-01 12:03:28 ##  INFO: {"uuid":"","action":"tellDevListUpdate"}
+2023-12-01 12:03:28 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-12-01 12:03:28 ##  INFO: 客户端登录uid 7c726
+2023-12-01 12:04:03 ##  INFO: {"uuid":"7c726","action":"tellRing","callId":"197"}
+2023-12-01 12:04:03 ##  INFO: 发送到用户to "7c726", msgType=msgCallRing
+2023-12-01 12:04:04 ##  INFO: {"uuid":"7c726","action":"tellCandidates","callId":"197","candidates":"candidates-197-8cf5e.json"}
+2023-12-01 12:04:04 ##  INFO: 发送到用户to "7c726", msgType=msgAddCandidates
+2023-12-01 12:04:07 ##  INFO: {"uuid":"8cf5e","action":"tellAnswer","callId":"197"}
+2023-12-01 12:04:07 ##  INFO: 发送到用户to "8cf5e", msgType=msgCallAnswer
+2023-12-01 12:04:07 ##  INFO: {"uuid":"8cf5e","action":"tellCandidates","callId":"197","candidates":"candidates-197-7c726.json"}
+2023-12-01 12:04:07 ##  INFO: 发送到用户to "8cf5e", msgType=msgAddCandidates
+2023-12-01 12:06:09 ##  INFO: 客户端断开:
+2023-12-01 12:06:10 ##  INFO: Notify deviceConnections update FAILED.
+2023-12-01 12:06:10 ##  INFO: 客户端断开:
+2023-12-01 12:06:11 ##  INFO: Notify deviceConnections update FAILED.
+2023-12-01 12:06:11 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-01 12:06:11 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-01 12:06:12 ##  INFO: {"uuid":"","action":"tellDevListUpdate"}
+2023-12-01 12:06:12 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-12-01 12:06:12 ##  INFO: {"uuid":"","action":"tellDevListUpdate"}
+2023-12-01 12:06:12 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-12-01 12:06:15 ##  INFO: {"uuid":"7c726","action":"tellCallClear","callId":"197"}
+2023-12-01 12:06:15 ##  INFO: 发送到用户to "7c726", msgType=msgCallClear
+2023-12-01 12:06:21 ##  INFO: 客户端断开:
+2023-12-01 12:06:22 ##  INFO: Notify deviceConnections update FAILED.
+2023-12-01 12:06:22 ##  INFO: 客户端断开:
+2023-12-01 12:06:23 ##  INFO: Notify deviceConnections update FAILED.
+2023-12-01 12:06:23 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-01 12:06:23 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-01 12:16:16 ##  INFO: {"uuid":"8cf5e","action":"tellCallClear","callId":"197"}
+2023-12-01 12:16:16 ##  INFO: 发送到用户to "8cf5e", msgType=msgCallClear
+2023-12-01 12:16:16 ##  INFO: {"uuid":"7c726","action":"tellCallClear","callId":"197"}
+2023-12-01 12:16:16 ##  INFO: 发送到用户to "7c726", msgType=msgCallClear
+2023-12-01 12:16:16 ##  INFO: 客户端登录uid 1c2f4
+2023-12-01 12:16:16 ##  INFO: {"uuid":"7c726","action":"disconnect"}
+2023-12-01 12:16:16 ##  INFO: 发送到用户to "7c726", msgType=disconnect
+2023-12-01 12:16:16 ##  INFO: {"uuid":"","action":"tellDevListUpdate"}
+2023-12-01 12:16:16 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-12-01 12:16:27 ##  INFO: 客户端登录uid 8361c
+2023-12-01 12:16:36 ##  INFO: 客户端登录uid 7e80
+2023-12-01 12:16:36 ##  INFO: {"uuid":"8cf5e","action":"disconnect"}
+2023-12-01 12:16:36 ##  INFO: 发送到用户to "8cf5e", msgType=disconnect
+2023-12-01 12:16:36 ##  INFO: {"uuid":"","action":"tellDevListUpdate"}
+2023-12-01 12:16:36 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-12-01 12:16:46 ##  INFO: {"uuid":"7e80","action":"tellRing","callId":"198"}
+2023-12-01 12:16:46 ##  INFO: 发送到用户to "7e80", msgType=msgCallRing
+2023-12-01 12:16:47 ##  INFO: {"uuid":"7e80","action":"tellCandidates","callId":"198","candidates":"candidates-198-1c2f4.json"}
+2023-12-01 12:16:47 ##  INFO: 发送到用户to "7e80", msgType=msgAddCandidates
+2023-12-01 12:16:48 ##  INFO: {"uuid":"1c2f4","action":"tellAnswer","callId":"198"}
+2023-12-01 12:16:48 ##  INFO: 发送到用户to "1c2f4", msgType=msgCallAnswer
+2023-12-01 12:16:49 ##  INFO: {"uuid":"1c2f4","action":"tellCandidates","callId":"198","candidates":"candidates-198-7e80.json"}
+2023-12-01 12:16:49 ##  INFO: 发送到用户to "1c2f4", msgType=msgAddCandidates
+2023-12-01 12:18:29 ##  INFO: {"uuid":"7e80","action":"tellCallClear","callId":"198"}
+2023-12-01 12:18:29 ##  INFO: 发送到用户to "7e80", msgType=msgCallClear
+2023-12-01 12:18:34 ##  INFO: 客户端断开:
+2023-12-01 12:18:35 ##  INFO: Notify deviceConnections update FAILED.
+2023-12-01 12:18:35 ##  INFO: 客户端断开:
+2023-12-01 12:18:36 ##  INFO: Notify deviceConnections update FAILED.
+2023-12-01 12:18:36 ##  INFO: 客户端断开:
+2023-12-01 12:18:37 ##  INFO: Notify deviceConnections update FAILED.
+2023-12-01 12:18:37 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-01 12:18:37 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-01 12:18:37 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-01 07:12:27 ##  INFO: 客户端登录uid b0748
+2023-12-01 07:12:43 ##  INFO: 客户端断开:
+2023-12-01 07:12:44 ##  INFO: Notify deviceConnections update FAILED.
+2023-12-01 07:12:44 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-01 07:12:44 ##  INFO: 客户端登录uid e2935
+2023-12-01 07:33:55 ##  INFO: 客户端断开:
+2023-12-01 07:33:56 ##  INFO: Notify deviceConnections update FAILED.
+2023-12-01 07:33:56 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-01 08:01:31 ##  INFO: 客户端登录uid e2935
+2023-12-01 09:50:03 ##  INFO: 客户端登录uid c53f0
+2023-12-01 09:51:25 ##  INFO: 客户端断开:
+2023-12-01 09:51:26 ##  INFO: Notify deviceConnections update FAILED.
+2023-12-01 09:51:26 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-01 09:51:31 ##  INFO: 客户端登录uid cbbae
+2023-12-01 09:51:33 ##  INFO: 客户端断开:
+2023-12-01 09:51:34 ##  INFO: Notify deviceConnections update FAILED.
+2023-12-01 09:51:34 ##  INFO: {"action":"getDevicesStatus"}

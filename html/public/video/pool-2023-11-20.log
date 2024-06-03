@@ -1,0 +1,274 @@
+2023-11-20 12:00:30 ##  INFO: 客户端断开:
+2023-11-20 12:00:30 ##  INFO: 客户端登录uid c10c3
+2023-11-20 12:01:03 ##  INFO: 客户端断开:
+2023-11-20 12:01:03 ##  INFO: 客户端登录uid 5c5e
+2023-11-20 12:01:34 ##  INFO: 客户端断开:
+2023-11-20 12:01:34 ##  INFO: 客户端登录uid 562bd
+2023-11-20 12:02:04 ##  INFO: 客户端断开:
+2023-11-20 12:02:04 ##  INFO: 客户端登录uid 2b95f
+2023-11-20 12:03:23 ##  INFO: 客户端断开:
+2023-11-20 12:03:26 ##  INFO: 客户端登录uid 2b95f
+2023-11-20 12:03:42 ##  INFO: 客户端断开:
+2023-11-20 12:03:45 ##  INFO: 客户端登录uid 2b95f
+2023-11-20 12:04:46 ##  INFO: 客户端断开:
+2023-11-20 12:04:48 ##  INFO: 客户端登录uid 2b95f
+2023-11-20 12:06:40 ##  INFO: 客户端断开:
+2023-11-20 09:48:30 ##  INFO: 客户端登录uid 2b95f
+2023-11-20 10:27:16 ##  INFO: 客户端断开:
+2023-11-20 10:40:48 ##  INFO: 客户端登录uid 2b95f
+2023-11-20 10:44:26 ##  INFO: 客户端断开:
+2023-11-20 10:44:26 ##  INFO: 客户端登录uid d7086
+2023-11-20 10:45:47 ##  INFO: 客户端断开:
+2023-11-20 10:45:47 ##  INFO: 客户端登录uid 721e6
+2023-11-20 10:46:22 ##  INFO: 客户端断开:
+2023-11-20 10:46:22 ##  INFO: 客户端登录uid 7daf4
+2023-11-20 10:47:48 ##  INFO: 客户端断开:
+2023-11-20 10:47:49 ##  INFO: 客户端登录uid 21442
+2023-11-20 10:48:05 ##  INFO: 客户端断开:
+2023-11-20 10:48:05 ##  INFO: 客户端登录uid 7a668
+2023-11-20 10:48:23 ##  INFO: 客户端登录uid 7e6fe
+2023-11-20 10:49:02 ##  INFO: 客户端断开:
+2023-11-20 10:49:03 ##  INFO: 客户端登录uid 64898
+2023-11-20 10:50:22 ##  INFO: 客户端断开:
+2023-11-20 10:50:22 ##  INFO: 客户端登录uid 76d89
+2023-11-20 10:50:32 ##  INFO: 客户端断开:
+2023-11-20 10:50:33 ##  INFO: 客户端登录uid dfa36
+2023-11-20 10:51:01 ##  INFO: 客户端断开:
+2023-11-20 10:51:02 ##  INFO: 客户端登录uid 72db2
+2023-11-20 10:51:07 ##  INFO: 客户端断开:
+2023-11-20 10:51:07 ##  INFO: 客户端登录uid 47f3
+2023-11-20 10:55:19 ##  INFO: 客户端断开:
+2023-11-20 10:55:19 ##  INFO: 客户端断开:
+2023-11-20 11:10:56 ##  INFO: 客户端登录uid 72db2
+2023-11-20 11:10:56 ##  INFO: 客户端登录uid 47f3
+2023-11-20 11:18:11 ##  INFO: 客户端断开:
+2023-11-20 11:18:11 ##  INFO: 客户端登录uid 1f491
+2023-11-20 11:18:31 ##  INFO: 客户端断开:
+2023-11-20 11:18:31 ##  INFO: 客户端登录uid 6a1a6
+2023-11-20 11:18:38 ##  INFO: 客户端断开:
+2023-11-20 11:18:38 ##  INFO: 客户端登录uid 72f9a
+2023-11-20 11:25:18 ##  INFO: 客户端断开:
+2023-11-20 11:25:18 ##  INFO: 客户端登录uid 70b25
+2023-11-20 11:26:11 ##  INFO: 客户端断开:
+2023-11-20 11:26:11 ##  INFO: 客户端登录uid f2785
+2023-11-20 11:26:38 ##  INFO: 客户端断开:
+2023-11-20 11:26:38 ##  INFO: 客户端登录uid 70e96
+2023-11-20 11:26:48 ##  INFO: 客户端断开:
+2023-11-20 11:26:48 ##  INFO: 客户端登录uid c1401
+2023-11-20 11:27:38 ##  INFO: 客户端断开:
+2023-11-20 11:27:39 ##  INFO: 客户端登录uid 4eeb4
+2023-11-20 11:28:17 ##  INFO: 客户端断开:
+2023-11-20 11:28:18 ##  INFO: 客户端登录uid be059
+2023-11-20 11:30:24 ##  INFO: 客户端断开:
+2023-11-20 11:30:25 ##  INFO: 客户端登录uid ddcd4
+2023-11-20 11:30:25 ##  INFO: {"uuid":"c1401","action":"disconnect"}
+2023-11-20 11:30:25 ##  INFO: 发送到用户to "c1401", msgType=disconnect
+2023-11-20 11:30:26 ##  INFO: 客户端断开:
+2023-11-20 11:30:26 ##  INFO: 客户端登录uid 30c9c
+2023-11-20 11:30:26 ##  INFO: {"uuid":"be059","action":"disconnect"}
+2023-11-20 11:30:26 ##  INFO: 发送到用户to "be059", msgType=disconnect
+2023-11-20 11:30:36 ##  INFO: 客户端断开:
+2023-11-20 11:30:37 ##  INFO: 客户端登录uid 36140
+2023-11-20 11:30:37 ##  INFO: {"uuid":"ddcd4","action":"disconnect"}
+2023-11-20 11:30:37 ##  INFO: 发送到用户to "ddcd4", msgType=disconnect
+2023-11-20 11:32:02 ##  INFO: 客户端断开:
+2023-11-20 11:32:02 ##  INFO: 客户端登录uid 87f52
+2023-11-20 11:32:03 ##  INFO: {"uuid":"30c9c","action":"disconnect"}
+2023-11-20 11:32:03 ##  INFO: 发送到用户to "30c9c", msgType=disconnect
+2023-11-20 11:32:27 ##  INFO: 客户端断开:
+2023-11-20 11:32:27 ##  INFO: 客户端登录uid 1b345
+2023-11-20 11:32:27 ##  INFO: {"uuid":"36140","action":"disconnect"}
+2023-11-20 11:32:27 ##  INFO: 发送到用户to "36140", msgType=disconnect
+2023-11-20 11:32:44 ##  INFO: 客户端断开:
+2023-11-20 11:32:44 ##  INFO: 客户端登录uid 702ac
+2023-11-20 11:32:44 ##  INFO: {"uuid":"1b345","action":"disconnect"}
+2023-11-20 11:32:44 ##  INFO: 发送到用户to "1b345", msgType=disconnect
+2023-11-20 11:33:18 ##  INFO: 客户端断开:
+2023-11-20 11:33:18 ##  INFO: 客户端登录uid db56f
+2023-11-20 11:33:18 ##  INFO: {"uuid":"87f52","action":"disconnect"}
+2023-11-20 11:33:18 ##  INFO: 发送到用户to "87f52", msgType=disconnect
+2023-11-20 11:34:17 ##  INFO: 客户端断开:
+2023-11-20 11:34:17 ##  INFO: 客户端登录uid 6c8e9
+2023-11-20 11:34:17 ##  INFO: {"uuid":"702ac","action":"disconnect"}
+2023-11-20 11:34:17 ##  INFO: 发送到用户to "702ac", msgType=disconnect
+2023-11-20 11:34:43 ##  INFO: 客户端断开:
+2023-11-20 11:34:43 ##  INFO: 客户端登录uid 1cec5
+2023-11-20 11:34:43 ##  INFO: {"uuid":"db56f","action":"disconnect"}
+2023-11-20 11:34:43 ##  INFO: 发送到用户to "db56f", msgType=disconnect
+2023-11-20 11:34:53 ##  INFO: 客户端断开:
+2023-11-20 11:34:53 ##  INFO: 客户端登录uid acd96
+2023-11-20 11:34:53 ##  INFO: {"uuid":"6c8e9","action":"disconnect"}
+2023-11-20 11:34:53 ##  INFO: 发送到用户to "6c8e9", msgType=disconnect
+2023-11-20 11:35:11 ##  INFO: 客户端断开:
+2023-11-20 11:35:11 ##  INFO: 客户端登录uid 3e79f
+2023-11-20 11:35:11 ##  INFO: {"uuid":"1cec5","action":"disconnect"}
+2023-11-20 11:35:11 ##  INFO: 发送到用户to "1cec5", msgType=disconnect
+2023-11-20 11:36:15 ##  INFO: 客户端断开:
+2023-11-20 11:36:15 ##  INFO: 客户端登录uid 85061
+2023-11-20 11:36:15 ##  INFO: {"uuid":"3e79f","action":"disconnect"}
+2023-11-20 11:36:15 ##  INFO: 发送到用户to "3e79f", msgType=disconnect
+2023-11-20 11:38:02 ##  INFO: 客户端断开:
+2023-11-20 11:38:02 ##  INFO: 客户端登录uid 93c76
+2023-11-20 11:38:02 ##  INFO: {"uuid":"85061","action":"disconnect"}
+2023-11-20 11:38:02 ##  INFO: 发送到用户to "85061", msgType=disconnect
+2023-11-20 11:38:23 ##  INFO: 客户端断开:
+2023-11-20 11:38:23 ##  INFO: 客户端登录uid 7d7bc
+2023-11-20 11:38:23 ##  INFO: {"uuid":"93c76","action":"disconnect"}
+2023-11-20 11:38:23 ##  INFO: 发送到用户to "93c76", msgType=disconnect
+2023-11-20 11:39:50 ##  INFO: 客户端断开:
+2023-11-20 11:39:50 ##  INFO: 客户端登录uid baa85
+2023-11-20 11:39:50 ##  INFO: {"uuid":"7d7bc","action":"disconnect"}
+2023-11-20 11:39:50 ##  INFO: 发送到用户to "7d7bc", msgType=disconnect
+2023-11-20 11:39:50 ##  INFO: {"uuid":"2ca8f","action":"disconnect"}
+2023-11-20 11:39:50 ##  INFO: 发送到用户to "2ca8f", msgType=disconnect
+2023-11-20 11:39:50 ##  INFO: {"uuid":"583b8","action":"disconnect"}
+2023-11-20 11:39:50 ##  INFO: 发送到用户to "583b8", msgType=disconnect
+2023-11-20 11:39:50 ##  INFO: {"uuid":"7a668","action":"disconnect"}
+2023-11-20 11:39:50 ##  INFO: 发送到用户to "7a668", msgType=disconnect
+2023-11-20 11:39:50 ##  INFO: {"uuid":"acd96","action":"disconnect"}
+2023-11-20 11:39:50 ##  INFO: 发送到用户to "acd96", msgType=disconnect
+2023-11-20 11:39:50 ##  INFO: 客户端断开:
+2023-11-20 11:41:12 ##  INFO: 客户端登录uid 6290
+2023-11-20 11:41:21 ##  INFO: 客户端断开:
+2023-11-20 11:41:21 ##  INFO: 客户端登录uid 888d3
+2023-11-20 11:41:21 ##  INFO: {"uuid":"baa85","action":"disconnect"}
+2023-11-20 11:41:21 ##  INFO: 发送到用户to "baa85", msgType=disconnect
+2023-11-20 11:41:21 ##  INFO: {"uuid":"6290","action":"disconnect"}
+2023-11-20 11:41:21 ##  INFO: 发送到用户to "6290", msgType=disconnect
+2023-11-20 11:41:21 ##  INFO: 客户端断开:
+2023-11-20 11:41:32 ##  INFO: 客户端登录uid 720cb
+2023-11-20 11:42:33 ##  INFO: 客户端断开:
+2023-11-20 11:42:34 ##  INFO: 客户端登录uid 26893
+2023-11-20 11:42:34 ##  INFO: {"uuid":"888d3","action":"disconnect"}
+2023-11-20 11:42:34 ##  INFO: 发送到用户to "888d3", msgType=disconnect
+2023-11-20 11:42:34 ##  INFO: {"uuid":"720cb","action":"disconnect"}
+2023-11-20 11:42:34 ##  INFO: 发送到用户to "720cb", msgType=disconnect
+2023-11-20 11:42:34 ##  INFO: 客户端断开:
+2023-11-20 11:42:38 ##  INFO: 客户端登录uid 1fc39
+2023-11-20 11:43:02 ##  INFO: 客户端断开:
+2023-11-20 11:43:02 ##  INFO: 客户端登录uid a6a34
+2023-11-20 11:43:02 ##  INFO: {"uuid":"1fc39","action":"disconnect"}
+2023-11-20 11:43:02 ##  INFO: 发送到用户to "1fc39", msgType=disconnect
+2023-11-20 11:43:02 ##  INFO: {"uuid":"26893","action":"disconnect"}
+2023-11-20 11:43:02 ##  INFO: 发送到用户to "26893", msgType=disconnect
+2023-11-20 11:43:02 ##  INFO: 客户端断开:
+2023-11-20 11:43:05 ##  INFO: 客户端登录uid 9a371
+2023-11-20 11:44:00 ##  INFO: 客户端断开:
+2023-11-20 11:44:01 ##  INFO: 客户端登录uid be4b9
+2023-11-20 11:44:01 ##  INFO: {"uuid":"a6a34","action":"disconnect"}
+2023-11-20 11:44:01 ##  INFO: 发送到用户to "a6a34", msgType=disconnect
+2023-11-20 11:44:01 ##  INFO: {"uuid":"9a371","action":"disconnect"}
+2023-11-20 11:44:01 ##  INFO: 发送到用户to "9a371", msgType=disconnect
+2023-11-20 11:44:01 ##  INFO: 客户端断开:
+2023-11-20 11:46:42 ##  INFO: 客户端登录uid 120b7
+2023-11-20 11:46:45 ##  INFO: {"uuid":"ad6aa","action":"disconnect"}
+2023-11-20 11:46:45 ##  INFO: 发送到用户to "ad6aa", msgType=disconnect
+2023-11-20 11:46:45 ##  INFO: {"uuid":"be4b9","action":"disconnect"}
+2023-11-20 11:46:45 ##  INFO: 发送到用户to "be4b9", msgType=disconnect
+2023-11-20 11:46:45 ##  INFO: 客户端断开:
+2023-11-20 11:46:52 ##  INFO: 客户端登录uid a715e
+2023-11-20 11:46:55 ##  INFO: {"uuid":"c16e1","action":"disconnect"}
+2023-11-20 11:46:55 ##  INFO: 发送到用户to "c16e1", msgType=disconnect
+2023-11-20 11:46:55 ##  INFO: {"uuid":"ef619","action":"disconnect"}
+2023-11-20 11:46:55 ##  INFO: 发送到用户to "ef619", msgType=disconnect
+2023-11-20 11:47:27 ##  INFO: 客户端断开:
+2023-11-20 11:47:27 ##  INFO: 客户端登录uid 6da5f
+2023-11-20 11:47:27 ##  INFO: {"uuid":"90255","action":"disconnect"}
+2023-11-20 11:47:27 ##  INFO: 发送到用户to "90255", msgType=disconnect
+2023-11-20 11:47:40 ##  INFO: 客户端断开:
+2023-11-20 11:47:43 ##  INFO: 客户端登录uid 3f8d7
+2023-11-20 11:47:48 ##  INFO: {"uuid":"78151","action":"disconnect"}
+2023-11-20 11:47:48 ##  INFO: 发送到用户to "78151", msgType=disconnect
+2023-11-20 11:47:48 ##  INFO: {"uuid":"c8064","action":"disconnect"}
+2023-11-20 11:47:48 ##  INFO: 发送到用户to "c8064", msgType=disconnect
+2023-11-20 11:48:03 ##  INFO: 客户端断开:
+2023-11-20 11:48:03 ##  INFO: 客户端登录uid a3ed7
+2023-11-20 11:48:06 ##  INFO: {"uuid":"e44e8","action":"disconnect"}
+2023-11-20 11:48:06 ##  INFO: 发送到用户to "e44e8", msgType=disconnect
+2023-11-20 11:48:06 ##  INFO: {"uuid":"7a714","action":"disconnect"}
+2023-11-20 11:48:06 ##  INFO: 发送到用户to "7a714", msgType=disconnect
+2023-11-20 11:50:48 ##  INFO: 客户端断开:
+2023-11-20 11:50:48 ##  INFO: 客户端登录uid 6df95
+2023-11-20 11:50:52 ##  INFO: {"uuid":"19b64","action":"disconnect"}
+2023-11-20 11:50:52 ##  INFO: 发送到用户to "19b64", msgType=disconnect
+2023-11-20 11:50:52 ##  INFO: {"uuid":"44b98","action":"disconnect"}
+2023-11-20 11:50:52 ##  INFO: 发送到用户to "44b98", msgType=disconnect
+2023-11-20 11:52:52 ##  INFO: 客户端断开:
+2023-11-20 11:52:52 ##  INFO: 客户端登录uid 4d96b
+2023-11-20 11:52:54 ##  INFO: 客户端断开:
+2023-11-20 11:52:54 ##  INFO: 客户端登录uid b78ac
+2023-11-20 11:52:54 ##  INFO: {"uuid":"240aa","action":"disconnect"}
+2023-11-20 11:52:54 ##  INFO: 发送到用户to "240aa", msgType=disconnect
+2023-11-20 11:52:58 ##  INFO: {"uuid":"b78ac","action":"disconnect"}
+2023-11-20 11:52:58 ##  INFO: 发送到用户to "b78ac", msgType=disconnect
+2023-11-20 11:52:58 ##  INFO: 客户端断开:
+2023-11-20 11:53:00 ##  INFO: {"uuid":"4d96b","action":"disconnect"}
+2023-11-20 11:53:00 ##  INFO: 发送到用户to "4d96b", msgType=disconnect
+2023-11-20 11:53:00 ##  INFO: 客户端断开:
+2023-11-20 11:53:09 ##  INFO: {"uuid":"4b4cb","action":"disconnect"}
+2023-11-20 11:53:09 ##  INFO: 发送到用户to "4b4cb", msgType=disconnect
+2023-11-20 11:54:20 ##  INFO: 客户端登录uid 3f054
+2023-11-20 11:54:20 ##  INFO: {"uuid":"a4961","action":"disconnect"}
+2023-11-20 11:54:20 ##  INFO: 发送到用户to "a4961", msgType=disconnect
+2023-11-20 11:54:23 ##  INFO: 客户端登录uid 57dbb
+2023-11-20 11:54:26 ##  INFO: 客户端登录uid 6332e
+2023-11-20 11:54:26 ##  INFO: {"uuid":"57dbb","action":"disconnect"}
+2023-11-20 11:54:26 ##  INFO: 发送到用户to "57dbb", msgType=disconnect
+2023-11-20 11:54:26 ##  INFO: {"uuid":"3f054","action":"disconnect"}
+2023-11-20 11:54:26 ##  INFO: 发送到用户to "3f054", msgType=disconnect
+2023-11-20 11:54:26 ##  INFO: 客户端断开:
+2023-11-20 11:54:27 ##  INFO: 客户端断开:
+2023-11-20 11:54:36 ##  INFO: 客户端登录uid 19574
+2023-11-20 11:54:36 ##  INFO: {"uuid":"6332e","action":"disconnect"}
+2023-11-20 11:54:36 ##  INFO: 发送到用户to "6332e", msgType=disconnect
+2023-11-20 11:54:36 ##  INFO: {"uuid":"1d611","action":"disconnect"}
+2023-11-20 11:54:36 ##  INFO: 发送到用户to "1d611", msgType=disconnect
+2023-11-20 11:54:40 ##  INFO: 客户端登录uid 669a6
+2023-11-20 11:54:40 ##  INFO: {"uuid":"6a57e","action":"disconnect"}
+2023-11-20 11:54:40 ##  INFO: 发送到用户to "6a57e", msgType=disconnect
+2023-11-20 11:54:40 ##  INFO: {"uuid":"19574","action":"disconnect"}
+2023-11-20 11:54:40 ##  INFO: 发送到用户to "19574", msgType=disconnect
+2023-11-20 11:54:40 ##  INFO: 客户端断开:
+2023-11-20 11:54:43 ##  INFO: 客户端登录uid 26ce7
+2023-11-20 11:54:44 ##  INFO: {"uuid":"3dc28","action":"disconnect"}
+2023-11-20 11:54:44 ##  INFO: 发送到用户to "3dc28", msgType=disconnect
+2023-11-20 11:54:44 ##  INFO: {"uuid":"669a6","action":"disconnect"}
+2023-11-20 11:54:44 ##  INFO: 发送到用户to "669a6", msgType=disconnect
+2023-11-20 11:54:44 ##  INFO: 客户端断开:
+2023-11-20 11:54:45 ##  INFO: 客户端登录uid 4ec8
+2023-11-20 11:54:46 ##  INFO: 客户端断开:
+2023-11-20 11:54:46 ##  INFO: 客户端断开:
+2023-11-20 11:54:46 ##  INFO: 客户端登录uid 3617a
+2023-11-20 11:54:46 ##  INFO: {"uuid":"26ce7","action":"disconnect"}
+2023-11-20 11:54:46 ##  INFO: 发送到用户to "26ce7", msgType=disconnect
+2023-11-20 11:54:50 ##  INFO: 客户端登录uid 60f54
+2023-11-20 11:54:50 ##  INFO: {"uuid":"4ec8","action":"disconnect"}
+2023-11-20 11:54:50 ##  INFO: 发送到用户to "4ec8", msgType=disconnect
+2023-11-20 11:54:50 ##  INFO: {"uuid":"3617a","action":"disconnect"}
+2023-11-20 11:54:50 ##  INFO: 发送到用户to "3617a", msgType=disconnect
+2023-11-20 11:54:50 ##  INFO: 客户端断开:
+2023-11-20 11:54:50 ##  INFO: 客户端断开:
+2023-11-20 11:56:29 ##  INFO: 客户端断开:
+2023-11-20 11:56:30 ##  INFO: 客户端登录uid b1ab7
+2023-11-20 11:56:30 ##  INFO: {"uuid":"60f54","action":"disconnect"}
+2023-11-20 11:56:30 ##  INFO: 发送到用户to "60f54", msgType=disconnect
+2023-11-20 11:56:32 ##  INFO: 客户端登录uid 36102
+2023-11-20 11:56:35 ##  INFO: 客户端登录uid e72b5
+2023-11-20 11:56:35 ##  INFO: {"uuid":"36102","action":"disconnect"}
+2023-11-20 11:56:35 ##  INFO: 发送到用户to "36102", msgType=disconnect
+2023-11-20 11:56:35 ##  INFO: {"uuid":"b1ab7","action":"disconnect"}
+2023-11-20 11:56:35 ##  INFO: 发送到用户to "b1ab7", msgType=disconnect
+2023-11-20 11:56:35 ##  INFO: 客户端断开:
+2023-11-20 11:56:36 ##  INFO: 客户端断开:
+2023-11-20 11:59:07 ##  INFO: 客户端断开:
+2023-11-20 11:59:07 ##  INFO: 客户端登录uid 5d9ce
+2023-11-20 11:59:08 ##  INFO: {"uuid":"e72b5","action":"disconnect"}
+2023-11-20 11:59:08 ##  INFO: 发送到用户to "e72b5", msgType=disconnect
+2023-11-20 11:59:11 ##  INFO: 客户端登录uid 1dd69
+2023-11-20 11:59:14 ##  INFO: 客户端登录uid bf73
+2023-11-20 11:59:14 ##  INFO: {"uuid":"1dd69","action":"disconnect"}
+2023-11-20 11:59:14 ##  INFO: 发送到用户to "1dd69", msgType=disconnect
+2023-11-20 11:59:14 ##  INFO: {"uuid":"5d9ce","action":"disconnect"}
+2023-11-20 11:59:14 ##  INFO: 发送到用户to "5d9ce", msgType=disconnect
+2023-11-20 11:59:14 ##  INFO: 客户端断开:
+2023-11-20 11:59:14 ##  INFO: 客户端断开:

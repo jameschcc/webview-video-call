@@ -1,0 +1,12 @@
+2023-11-27 01:10:30 ##  INFO: 客户端登录uid e06ca
+2023-11-27 01:10:30 ##  INFO: {"uuid":"fc7f","action":"tellCallClear","callId":"106"}
+2023-11-27 01:10:30 ##  INFO: 发送到用户to "fc7f", msgType=msgCallClear
+2023-11-27 01:10:30 ##  INFO: {"uuid":"dfb98","action":"tellCallClear","callId":"106"}
+2023-11-27 01:10:30 ##  INFO: 发送到用户to "dfb98", msgType=msgCallClear
+2023-11-27 01:10:30 ##  INFO: {"uuid":"fc7f","action":"disconnect"}
+2023-11-27 01:10:30 ##  INFO: 发送到用户to "fc7f", msgType=disconnect
+2023-11-27 01:10:30 ##  INFO: {"uuid":"","action":"tellDevListUpdate"}
+2023-11-27 01:10:30 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-11-27 01:11:30 ##  INFO: 客户端断开:
+2023-11-27 01:11:31 ##  INFO: Notify deviceConnections update FAILED.
+2023-11-27 01:11:31 ##  INFO: {"action":"getDevicesStatus"}

@@ -1,0 +1,49 @@
+2023-12-05 12:00:38 ##  INFO: 客户端断开, uniq=68070dda7d5bd94103974486
+2023-12-05 12:01:44 ##  INFO: 客户端断开, uniq=f9d7e5ea7d5bd94105614c51
+2023-12-05 12:02:50 ##  INFO: 客户端断开, uniq=00397ffb7d5bd9410255c628
+2023-12-05 12:03:58 ##  INFO: 客户端断开, uniq=dd3f470c7e5bd941038903b4
+2023-12-05 12:05:02 ##  INFO: 客户端断开, uniq=0ff1311c7e5bd94103756f73
+2023-12-05 12:06:08 ##  INFO: 客户端断开, uniq=b988f72c7e5bd94101c8c089
+2023-12-05 12:07:15 ##  INFO: 客户端断开, uniq=a725b33d7e5bd941038a7283
+2023-12-05 12:08:30 ##  INFO: 客户端断开, uniq=478d38507e5bd94101e313f0
+2023-12-05 12:09:35 ##  INFO: 客户端断开, uniq=ebfda5607e5bd941030524e7
+2023-12-05 12:10:38 ##  INFO: 客户端断开, uniq=f64444707e5bd94101a47d62
+2023-12-05 12:11:20 ##  INFO: 客户端登录uniq=2bee9
+2023-12-05 12:11:20 ##  INFO: (login) Notify deviceConnections update result:{"out":[],"uniqConnectionMap":{"c21d4":1,"08744":1,"2bee9":1}}
+2023-12-05 12:11:20 ##  INFO: (login) Notify deviceConnections update OK.
+2023-12-05 12:11:20 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-05 12:11:20 ##  INFO: {"uniq":"","action":"tellDevListUpdate"}
+2023-12-05 12:11:20 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-12-05 12:12:07 ##  INFO: 客户端断开, uniq=e06730807e5bd941046c62af
+2023-12-05 12:13:28 ##  INFO: 客户端断开, uniq=af99af9a7e5bd94103096578
+2023-12-05 12:13:35 ##  INFO: 客户端断开, uniq=fa7c168a7e5bd94104ee9dd0
+2023-12-05 12:13:35 ##  INFO: (disconnect) Notify deviceConnections update OK.
+2023-12-05 12:13:35 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-05 12:13:36 ##  INFO: {"uniq":"","action":"tellDevListUpdate"}
+2023-12-05 12:13:36 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-12-05 12:14:13 ##  INFO: 客户端登录uniq=2bee9
+2023-12-05 12:14:13 ##  INFO: (login) Notify deviceConnections update result:{"out":[],"uniqConnectionMap":{"c21d4":1,"08744":1,"2bee9":1}}
+2023-12-05 12:14:13 ##  INFO: (login) Notify deviceConnections update OK.
+2023-12-05 12:14:13 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-05 12:14:13 ##  INFO: {"uniq":"","action":"tellDevListUpdate"}
+2023-12-05 12:14:13 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-12-05 12:15:06 ##  INFO: 客户端断开, uniq=d6553cad7e5bd941014bd70b
+2023-12-05 12:16:03 ##  INFO: 客户端断开, uniq=170c4bb57e5bd9410364f410
+2023-12-05 12:16:03 ##  INFO: (disconnect) Notify deviceConnections update OK.
+2023-12-05 12:16:03 ##  INFO: {"action":"getDevicesStatus"}
+2023-12-05 12:16:03 ##  INFO: {"uniq":"","action":"tellDevListUpdate"}
+2023-12-05 12:16:03 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-12-05 12:17:03 ##  INFO: 客户端断开, uniq=b0cb28ce7e5bd941032fc586
+2023-12-05 12:18:15 ##  INFO: 客户端断开, uniq=c32c88e27e5bd94104613fbb
+2023-12-05 12:19:18 ##  INFO: 客户端断开, uniq=47cb2ff27e5bd94103622fa3
+2023-12-05 12:20:23 ##  INFO: 客户端断开, uniq=da1cb1027f5bd94103f9f1c8
+2023-12-05 12:21:30 ##  INFO: 客户端断开, uniq=249d4d137f5bd94103257e74
+2023-12-05 12:24:10 ##  INFO: 客户端断开, uniq=b9aa852e7f5bd94104cd106f
+2023-12-05 12:25:46 ##  INFO: 客户端断开, uniq=be1255537f5bd94105850f7f
+2023-12-05 12:26:53 ##  INFO: 客户端断开, uniq=2bd91b647f5bd94103bd207e
+2023-12-05 12:27:34 ##  INFO: 客户端断开, uniq=e529f0d8795bd94101ff3be0
+2023-12-05 12:27:34 ##  INFO: 客户端断开, uniq=27fad8c17a5bd94104ec9921
+2023-12-05 12:27:34 ##  INFO: (disconnect) Notify deviceConnections update OK.
+2023-12-05 12:27:34 ##  INFO: 客户端断开, uniq=b1c38f907c5bd94104adb8c6
+2023-12-05 12:27:34 ##  INFO: (disconnect) Notify deviceConnections update OK.
+2023-12-05 12:27:34 ##  INFO: 客户端断开, uniq=70eebc737f5bd94103fa58cb

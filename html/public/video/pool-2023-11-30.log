@@ -1,0 +1,81 @@
+2023-11-30 12:00:03 ##  INFO: 客户端断开:
+2023-11-30 12:00:04 ##  INFO: Notify deviceConnections update FAILED.
+2023-11-30 12:00:04 ##  INFO: {"action":"getDevicesStatus"}
+2023-11-30 12:00:04 ##  INFO: {"uuid":"","action":"tellDevListUpdate"}
+2023-11-30 12:00:04 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-11-30 12:00:10 ##  INFO: 客户端登录uid b0748
+2023-11-30 12:00:27 ##  INFO: 客户端登录uid 4cf08
+2023-11-30 12:00:35 ##  INFO: 客户端登录uid ed214
+2023-11-30 12:00:35 ##  INFO: {"uuid":"990fa","action":"disconnect"}
+2023-11-30 12:00:35 ##  INFO: 发送到用户to "990fa", msgType=disconnect
+2023-11-30 12:00:35 ##  INFO: {"uuid":"","action":"tellDevListUpdate"}
+2023-11-30 12:00:35 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-11-30 12:00:43 ##  INFO: {"uuid":"21104","action":"tellRing","callId":"195"}
+2023-11-30 12:00:43 ##  INFO: 发送到用户to "21104", msgType=msgCallRing
+2023-11-30 12:00:44 ##  INFO: {"uuid":"21104","action":"tellCandidates","callId":"195","candidates":"candidates-195-ed214.json"}
+2023-11-30 12:00:44 ##  INFO: 发送到用户to "21104", msgType=msgAddCandidates
+2023-11-30 12:00:46 ##  INFO: {"uuid":"ed214","action":"tellAnswer","callId":"195"}
+2023-11-30 12:00:46 ##  INFO: 发送到用户to "ed214", msgType=msgCallAnswer
+2023-11-30 12:00:47 ##  INFO: {"uuid":"ed214","action":"tellCandidates","callId":"195","candidates":"candidates-195-21104.json"}
+2023-11-30 12:00:47 ##  INFO: 发送到用户to "ed214", msgType=msgAddCandidates
+2023-11-30 12:01:26 ##  INFO: {"uuid":"21104","action":"tellCallClear","callId":"195"}
+2023-11-30 12:01:26 ##  INFO: 发送到用户to "21104", msgType=msgCallClear
+2023-11-30 12:01:32 ##  INFO: {"uuid":"ed214","action":"tellRing","callId":"196"}
+2023-11-30 12:01:32 ##  INFO: 发送到用户to "ed214", msgType=msgCallRing
+2023-11-30 12:01:33 ##  INFO: {"uuid":"ed214","action":"tellCandidates","callId":"196","candidates":"candidates-196-21104.json"}
+2023-11-30 12:01:33 ##  INFO: 发送到用户to "ed214", msgType=msgAddCandidates
+2023-11-30 12:01:34 ##  INFO: {"uuid":"21104","action":"tellAnswer","callId":"196"}
+2023-11-30 12:01:34 ##  INFO: 发送到用户to "21104", msgType=msgCallAnswer
+2023-11-30 12:01:35 ##  INFO: {"uuid":"21104","action":"tellCandidates","callId":"196","candidates":"candidates-196-ed214.json"}
+2023-11-30 12:01:35 ##  INFO: 发送到用户to "21104", msgType=msgAddCandidates
+2023-11-30 12:02:00 ##  INFO: 客户端断开:
+2023-11-30 12:02:01 ##  INFO: Notify deviceConnections update FAILED.
+2023-11-30 12:02:01 ##  INFO: {"action":"getDevicesStatus"}
+2023-11-30 12:02:01 ##  INFO: {"uuid":"","action":"tellDevListUpdate"}
+2023-11-30 12:02:01 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-11-30 12:02:51 ##  INFO: 客户端断开:
+2023-11-30 12:02:52 ##  INFO: Notify deviceConnections update FAILED.
+2023-11-30 12:02:52 ##  INFO: {"action":"getDevicesStatus"}
+2023-11-30 12:02:52 ##  INFO: {"uuid":"","action":"tellDevListUpdate"}
+2023-11-30 12:02:52 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-11-30 12:03:08 ##  INFO: 客户端断开:
+2023-11-30 12:03:09 ##  INFO: Notify deviceConnections update FAILED.
+2023-11-30 12:03:09 ##  INFO: {"action":"getDevicesStatus"}
+2023-11-30 12:03:09 ##  INFO: {"uuid":"","action":"tellDevListUpdate"}
+2023-11-30 12:03:09 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-11-30 12:04:34 ##  INFO: 客户端断开:
+2023-11-30 12:04:35 ##  INFO: Notify deviceConnections update FAILED.
+2023-11-30 12:04:35 ##  INFO: {"action":"getDevicesStatus"}
+2023-11-30 12:05:06 ##  INFO: 客户端登录uid 21104
+2023-11-30 12:05:25 ##  INFO: 客户端断开:
+2023-11-30 12:05:27 ##  INFO: Notify deviceConnections update FAILED.
+2023-11-30 12:05:27 ##  INFO: {"action":"getDevicesStatus"}
+2023-11-30 10:27:08 ##  INFO: 客户端登录uid 127a5
+2023-11-30 10:27:10 ##  INFO: {"uuid":"ed214","action":"tellCallClear","callId":"195"}
+2023-11-30 10:27:10 ##  INFO: 发送到用户to "ed214", msgType=msgCallClear
+2023-11-30 10:27:10 ##  INFO: {"uuid":"21104","action":"tellCallClear","callId":"195"}
+2023-11-30 10:27:10 ##  INFO: 发送到用户to "21104", msgType=msgCallClear
+2023-11-30 10:27:10 ##  INFO: {"uuid":"21104","action":"tellCallClear","callId":"196"}
+2023-11-30 10:27:10 ##  INFO: 发送到用户to "21104", msgType=msgCallClear
+2023-11-30 10:27:10 ##  INFO: 客户端登录uid 45710
+2023-11-30 10:27:10 ##  INFO: {"uuid":"ed214","action":"tellCallClear","callId":"196"}
+2023-11-30 10:27:10 ##  INFO: 发送到用户to "ed214", msgType=msgCallClear
+2023-11-30 10:27:10 ##  INFO: {"uuid":"21104","action":"disconnect"}
+2023-11-30 10:27:10 ##  INFO: 发送到用户to "21104", msgType=disconnect
+2023-11-30 10:27:10 ##  INFO: {"uuid":"","action":"tellDevListUpdate"}
+2023-11-30 10:27:10 ##  INFO: 发送到用户to "", msgType=msgDeviceListUpdate
+2023-11-30 10:36:56 ##  INFO: 客户端断开:
+2023-11-30 10:36:57 ##  INFO: Notify deviceConnections update FAILED.
+2023-11-30 10:36:57 ##  INFO: 客户端断开:
+2023-11-30 10:36:58 ##  INFO: Notify deviceConnections update FAILED.
+2023-11-30 10:36:58 ##  INFO: {"action":"getDevicesStatus"}
+2023-11-30 10:36:58 ##  INFO: {"action":"getDevicesStatus"}
+2023-11-30 10:38:48 ##  INFO: 客户端登录uid b0748
+2023-11-30 11:12:33 ##  INFO: 客户端断开:
+2023-11-30 11:12:34 ##  INFO: Notify deviceConnections update FAILED.
+2023-11-30 11:12:34 ##  INFO: {"action":"getDevicesStatus"}
+2023-11-30 11:26:52 ##  INFO: 客户端登录uid 45710
+2023-11-30 11:26:56 ##  INFO: 客户端断开:
+2023-11-30 11:26:57 ##  INFO: Notify deviceConnections update FAILED.
+2023-11-30 11:26:57 ##  INFO: 客户端断开:
+2023-11-30 11:26:57 ##  INFO: {"action":"getDevicesStatus"}
